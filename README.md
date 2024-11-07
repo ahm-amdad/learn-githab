@@ -1,3 +1,3 @@
 # learn-githab
 this is Amdad <br>
-Author - Amdad
+Author - Amdad (web-developer)
